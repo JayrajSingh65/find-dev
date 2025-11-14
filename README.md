@@ -1,10 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Team Members
-### Jayraj singh Shekhawat
-### Lokakshi Nain
-### Ankit 
-### Bharat Singh
+
 
 ## Getting Started
 
